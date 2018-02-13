@@ -1,0 +1,5 @@
+<h1>Ragot</h1>
+<p>Nom de l'auteur : <%= @anonymous_author.username %></p>
+<p>Contenu du ragot : <%= @gossip.content %></p>
+<p><%= link_to 'Modifier le ragot', edit_gossip_path %></p>
+<p><%= link_to 'Supprimer le ragot', @gossip, method: :delete %></p>
