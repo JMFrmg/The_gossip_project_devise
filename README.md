@@ -22,7 +22,7 @@ Pour lancer les tests :
 * Des tests pour les models user et gossip
 
 
-##Certaines choses auraient été bien mais ne sont pas présentes faute de temps :
+## Certaines choses auraient été bien mais ne sont pas présentes faute de temps :
 * Subordonner la création d'un compte à la présence de l'email dans une liste
 * Créer les tests pour les controlleurs et les views
 * Améliorer l'esthétique
